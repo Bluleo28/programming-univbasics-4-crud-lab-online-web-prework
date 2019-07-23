@@ -16,16 +16,13 @@ end
 remove_element_from_start_of_array(array)) .to eq ( )
   
 end
-
-def retrieve_element_from_index(array, 2)) .to eq( )
+retrieve_element_from_index(array, 2)) .to eq( )
   
 end
-
-def retrieve_first_element_from_array(array)) .to eq( )
+retrieve_first_element_from_array(array)) .to eq( )
   
 end
-
-def retrieve_last_element_from_array(array)
+retrieve_last_element_from_array(array)
   
 end
 
