@@ -21,7 +21,7 @@ def retrieve_element_from_index(array, 2)) .to eq( )
   
 end
 
-def retrieve_first_element_from_array(array)
+def retrieve_first_element_from_array(array)) .to eq( )
   
 end
 
