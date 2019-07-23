@@ -22,10 +22,9 @@ end
 retrieve_first_element_from_array(array)) .to eq( )
   
 end
-retrieve_last_element_from_array(array)
+retrieve_last_element_from_array(array)) .to eq( )
   
 end
-
-def update_element_from_index(array, index_number, element)
+update_element_from_index(array, index_number, element)
 
 end
