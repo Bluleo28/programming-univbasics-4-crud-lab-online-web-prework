@@ -25,6 +25,6 @@ end
 retrieve_last_element_from_array(array)) .to eq( )
   
 end
-update_element_from_index(array, index_number, element)
+update_element_from_index(array, 4)) .to eq ( )
 
 end
