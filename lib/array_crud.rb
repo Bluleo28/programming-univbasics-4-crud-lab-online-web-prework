@@ -4,8 +4,7 @@ end
 create_an_array creates an array with four elements
   expect 
 end
-
-def add_element_to_end_of_array(array, element)
+add_element_to_end_of_array(array, element), last) .to eq
   
 end
 
