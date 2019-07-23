@@ -17,7 +17,7 @@ remove_element_from_start_of_array(array)) .to eq ( )
   
 end
 
-def retrieve_element_from_index(array, index_number)
+def retrieve_element_from_index(array, 2)) .to eq( )
   
 end
 
