@@ -1,5 +1,5 @@
 def create_an_empty_array
-expect (create_an_empty_array) .to eq([])
+expect [ ] 
 end
 def create_an_array
   expect 
